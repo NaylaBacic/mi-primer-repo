@@ -1,0 +1,35 @@
+span {
+    color: green;
+}
+
+h1{
+    color: green;
+}
+
+/* seleccionadores*/
+/* etiquetas */
+/* seleccionadores de clases*/
+.titulo_principal{
+    color: chocolate;
+}
+
+.cambiando_titulo {
+    color:blueviolet
+}
+
+#tituloPrincipal {
+    color:chartreuse;
+}
+
+/* gerarquia de seleccionadores*/
+h3 {
+    color: red;
+}
+
+.probando_gerarquia {
+    color: aqua;
+}
+
+#probandoGerarquia {
+    color:blueviolet;
+}
